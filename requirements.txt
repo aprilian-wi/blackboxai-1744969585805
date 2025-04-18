@@ -1,0 +1,14 @@
+# Web Scraping
+beautifulsoup4==4.12.2
+requests==2.31.0
+googlesearch-python==1.2.3
+
+# Data Processing
+pandas==2.1.1
+
+# Validation and Utilities
+python-dotenv==1.0.0
+validators==0.22.0
+
+# Logging
+loguru==0.7.2
